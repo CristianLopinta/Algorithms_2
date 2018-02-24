@@ -1,5 +1,6 @@
 1. De ejemplos de otras estructuras de datos no vistas en esta semana, y sus respectivos ejemplos de uso. 
-Tabla Hash
+Tabla Hash.- 
+
 Es una estructura de datos que asocia llaves o claves con valores. La operación principal que soporta de manera eficiente es la búsqueda: permite el acceso a los elementos almacenados a partir de una clave generada. Funciona transformando la clave con una función hash en un hash (un número que identifica la posición  donde la tabla hash localiza el valor deseado).
 Árbol 
 Es una estructura de datos ampliamente usada que imita la estructura jerárquica de un árbol, con un valor en la raíz y subárboles con un nodo padre, representado como un conjunto de nodos enlazados.
